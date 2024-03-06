@@ -5,7 +5,7 @@
   <li>🌱 I'm delving into the realms of <strong>Data Science, Machine Learning, Deep Learning, and Artificial Intelligence.</strong></li>
   <li>👨‍💻 Portfolio: <a href="https://github.com/suraj5424?tab=repositories" target="_blank">Portfolios</a></li>
   <li>💬 Having conversations about <strong>AI project</strong> is something I truly find rewarding.</li>
-  <li>📫 How to reach me: <a href="mailto:sv3677781@gmail.com">Suraj Varma</a></li>
+  <li>📫 How to reach me: sv3677781@gmail.com
 </ul>
 
 <h3 align="left">Connect with me:</h3>
