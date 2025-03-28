@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraj Varma</h1>
 <h3 align="center">An enthusiastic individual with a strong interest in the field of Data Science.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj5424&label=Profile%20views&color=0e75b6&style=flat" alt="suraj5424" /> </p>
 
 <ul>
   <li>🌱 I'm delving into the realms of <strong>Data Science, Machine Learning, Deep Learning, and Artificial Intelligence.</strong></li>
