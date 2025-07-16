@@ -30,7 +30,7 @@
   <a href="https://www.instagram.com/suraj5424/" target="_blank">
     <img src="https://img.shields.io/badge/@suraj5424-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.kaggle.com/surajvarma5424" target="_blank">
+  <a href="https://www.kaggle.com/suraj5424" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Suraj%20Varma-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
 </p>
