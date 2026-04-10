@@ -32,6 +32,14 @@
   </a>
 </p>
 
+[Visit Portfolio the app](https://suraj-varma.vercel.app/)
+
+
+
+https://github.com/user-attachments/assets/12c414aa-f6f0-42ff-b8a0-f107b4a02744
+
+
+
 
 ### 🧭 About Me
 
@@ -78,17 +86,8 @@ I’m a passionate **AI Engineer and Data Scientist** with dual Master's degrees
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker" style="margin-top: 10px;"/>
 
 **Big Data & Databases**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="45" alt="Hadoop" style="margin-right: 15px; margin-top: 10px;"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="45" alt="Apache Spark" style="margin-right: 15px; margin-top: 10px;"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL" style="margin-right: 15px; margin-top: 10px;"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB" style="margin-top: 10px;"/>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suraj5424&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
 
 ---
